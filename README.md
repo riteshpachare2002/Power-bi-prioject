@@ -1,5 +1,6 @@
 📊 Classic Models Sales Analysis Dashboard
-This Power BI project provides an interactive dashboard analyzing sales data from the Classic Models dataset, a fictional company specializing in scale model vehicles. The dashboard offers insights into sales performance, customer behavior, and product trends, aiding in strategic decision-making.
+
+    This Power BI project provides an interactive dashboard analyzing sales data from the Classic Models dataset, a fictional company specializing in scale model vehicles. The dashboard offers insights into sales performance, customer behavior, and product trends, aiding in strategic decision-making.
 
 🔍  Key Features:
 
